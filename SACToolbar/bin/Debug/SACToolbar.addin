@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>SACToolbar</Name>
+    <Assembly>
+      C:\Users\jab\Documents\Visual Studio 2017\Projects\SACToolbar\SACToolbar\bin\Debug\SACToolbar.dll
+    </Assembly>
+    <AddInId>502fe383-2648-4e98-adf8-5e6047f9db39</AddInId>
+    <FullClassName>SACToolbar.SACToolbar</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>

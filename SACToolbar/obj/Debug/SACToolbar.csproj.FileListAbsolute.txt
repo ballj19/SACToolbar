@@ -1,0 +1,8 @@
+c:\users\jab\documents\visual studio 2017\Projects\SACToolbar\SACToolbar\bin\Debug\SACToolbar.dll
+c:\users\jab\documents\visual studio 2017\Projects\SACToolbar\SACToolbar\bin\Debug\SACToolbar.pdb
+c:\users\jab\documents\visual studio 2017\Projects\SACToolbar\SACToolbar\obj\Debug\SACToolbar.csprojResolveAssemblyReference.cache
+c:\users\jab\documents\visual studio 2017\Projects\SACToolbar\SACToolbar\obj\Debug\SACToolbar.dll
+c:\users\jab\documents\visual studio 2017\Projects\SACToolbar\SACToolbar\obj\Debug\SACToolbar.pdb
+c:\users\jab\documents\visual studio 2017\Projects\SACToolbar\SACToolbar\bin\Debug\SACToolbar.addin
+C:\Users\jab\Documents\Visual Studio 2017\Projects\SACToolbar\SACToolbar\obj\Debug\SACToolbar.Form1.resources
+C:\Users\jab\Documents\Visual Studio 2017\Projects\SACToolbar\SACToolbar\obj\Debug\SACToolbar.csproj.GenerateResource.Cache
